@@ -1,0 +1,3 @@
+# Черновик v3 закрыт от обхода. Перед публичным запуском заменить по инструкции DEPLOYMENT_AND_INDEXING.md.
+User-agent: *
+Disallow: /
